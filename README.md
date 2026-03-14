@@ -50,5 +50,7 @@ Next/Previous	Skip between tracks
 Search	Type to filter songs
 Recent	Auto-track played songs
 Clear Recent	One-click clear button
+
+
 📝 License
 MIT © Eman Fatima
